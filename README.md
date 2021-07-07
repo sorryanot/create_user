@@ -1,4 +1,4 @@
-# test to create user.
+# user creation test.
 
 
 Create a new user on the site
